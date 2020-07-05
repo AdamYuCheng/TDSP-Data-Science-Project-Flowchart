@@ -13,6 +13,6 @@ Hope this flowchart could help everyone feeling the scope of data science projec
 * PMBOK: https://ricardo-vargas.com/pmbok6-processes-flow/?fbclid=IwAR0UwgIEBfY4Y8B7toIMrdzZ94aPVBkZ70JGzr4WdW4MpQoTOAkTYIKmiyE
 
 # Flowchart
-![TDSP - Project Flow Chart](TDSP - Project Flow Chart.jpg)
+<img src="./TDSP - Project Flow Chart.jpg">
 
 
